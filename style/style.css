@@ -1,0 +1,28 @@
+body {
+  color: white;
+  background-color: black;
+  font-family: Lato, Arial;
+  text-align: center;
+h1:hover {
+  background-color: blacke;
+}
+
+p {
+  font-size:14pt;
+}
+
+li{
+  padding-bottom: 5px;
+  text-align: center;
+  font-size:10pt;
+}
+
+h1 {
+  color:red;
+  cursor: alias;
+}
+
+h2 {
+  padding-top: 50px;
+}
+
